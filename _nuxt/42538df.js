@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{793:function(t,e,n){"use strict";n.r(e);var r={layout:"default",fetch:function(t){(0,t.redirect)("/transfer")}},c=n(12),component=Object(c.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,null,null);e.default=component.exports}}]);
